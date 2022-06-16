@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myfetcher/static/css/main.073c9b0a.css",
+    "main.js": "/myfetcher/static/js/main.94b2b178.js",
+    "static/js/787.f6009708.chunk.js": "/myfetcher/static/js/787.f6009708.chunk.js",
+    "static/media/logo.svg": "/myfetcher/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myfetcher/index.html",
+    "main.073c9b0a.css.map": "/myfetcher/static/css/main.073c9b0a.css.map",
+    "main.94b2b178.js.map": "/myfetcher/static/js/main.94b2b178.js.map",
+    "787.f6009708.chunk.js.map": "/myfetcher/static/js/787.f6009708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.94b2b178.js"
+  ]
+}
